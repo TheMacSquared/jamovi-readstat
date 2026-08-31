@@ -4,3 +4,4 @@ readstat.c
 librdata.c
 *.so
 *.pyd
+*.egg-info/
